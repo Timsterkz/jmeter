@@ -1,0 +1,42 @@
+2023-12-15 16:39:54,135 INFO o.a.j.u.JMeterUtils: Setting Locale to ru_KZ
+2023-12-15 16:39:54,144 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'ru_KZ'
+2023-12-15 16:39:54,145 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-12-15 16:39:54,145 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-12-15 16:39:54,147 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-12-15 16:39:54,147 INFO o.a.j.JMeter: Version 5.6.2
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: java.version=20.0.2
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: os.name=Mac OS X
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: os.arch=aarch64
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: os.version=13.4.1
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: file.encoding=UTF-8
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: java.awt.headless=null
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: Max memory     =4294967296
+2023-12-15 16:39:54,148 INFO o.a.j.JMeter: Available Processors =8
+2023-12-15 16:39:54,152 INFO o.a.j.JMeter: Default Locale=русский (Казахстан)
+2023-12-15 16:39:54,152 INFO o.a.j.JMeter: JMeter  Locale=русский (Казахстан)
+2023-12-15 16:39:54,152 INFO o.a.j.JMeter: JMeterHome=/Users/temirlanmyrzan/apache-jmeter-5.6.2
+2023-12-15 16:39:54,152 INFO o.a.j.JMeter: user.dir  =/Users/temirlanmyrzan/apache-jmeter-5.6.2/bin
+2023-12-15 16:39:54,152 INFO o.a.j.JMeter: PWD       =/Users/temirlanmyrzan/apache-jmeter-5.6.2/bin
+2023-12-15 16:39:55,191 INFO o.a.j.JMeter: IP: 192.168.1.143 Name: MBP--Temirlan FullName: mbp--temirlan
+2023-12-15 16:39:55,215 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-12-15 16:39:55,412 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-12-15 16:40:27,463 INFO o.a.j.s.FileServer: Default base='/Users/temirlanmyrzan/apache-jmeter-5.6.2/bin'
+2023-12-15 16:40:27,465 INFO o.a.j.g.a.Load: Loading file: /Users/temirlanmyrzan/Desktop/Projects/jmeter-labs/exercise1.jmx
+2023-12-15 16:40:27,466 INFO o.a.j.s.FileServer: Set new base='/Users/temirlanmyrzan/Desktop/Projects/jmeter-labs'
+2023-12-15 16:40:27,554 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-12-15 16:40:27,566 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-12-15 16:40:27,568 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-12-15 16:40:27,568 INFO o.a.j.s.SaveService: Loading file: /Users/temirlanmyrzan/Desktop/Projects/jmeter-labs/exercise1.jmx
+2023-12-15 16:40:27,580 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-15 16:40:27,580 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-15 16:40:27,580 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-15 16:40:27,580 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-15 16:40:27,580 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-12-15 16:40:27,580 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-12-15 16:40:27,583 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2023-12-15 16:40:27,695 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-12-15 16:40:27,695 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2023-12-15 16:40:27,696 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-12-15 16:40:27,696 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-12-15 16:40:27,798 INFO o.a.j.s.FileServer: Set new base='/Users/temirlanmyrzan/Desktop/Projects/jmeter-labs'
